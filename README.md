@@ -37,9 +37,8 @@ GOOGLE_API_KEY=<your-api-key>
 ```
 
 8. Jalankan aplikasi:
-
 ```
-python ""
+python "generative AI untuk menganalisa gambar.py"
 ```
 
 ## Alat dan Pustaka (Paket) yang digunakan
@@ -51,3 +50,4 @@ pillow
 
 
 Setelah aplikasi berjalan, Anda dapat mengobrol dan menganalisa gambar dengan Google Generative AI di konsol atau CMD Anda
+
