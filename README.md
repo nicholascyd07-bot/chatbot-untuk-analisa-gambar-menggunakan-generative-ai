@@ -1,4 +1,4 @@
-# Chatbot dengan Google Generative AI
+# Chatbot untuk menganalisa gambar dengan Google Generative AI dan Pillow/PIL
 
 ## Cara menjalankan kode
 
@@ -50,4 +50,5 @@ pillow
 
 
 Setelah aplikasi berjalan, Anda dapat mengobrol dan menganalisa gambar dengan Google Generative AI di konsol atau CMD Anda
+
 
