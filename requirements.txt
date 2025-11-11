@@ -1,0 +1,6 @@
+# Standard library 'os' does not need a package
+# For `from PIL import Image`
+Pillow
+
+# For `import google.generativeai as genai`
+google-generativeai
