@@ -9,23 +9,20 @@ Untuk menginstal dan menjalankan kode, berikut petunjuknya:
 2. Masuk ke direktori chatbot genai:
 
 ```(CMD)
-cd "genai analisa gambar chatbot"
+cd "chatbot-dengan-gambar-menggunakan-generative-ai"
 ```
 
 3. Buat lingkungan virtual:
-
 ```
 python -m venv venv
 ```
 
 4. Aktifkan lingkungan virtual baru:
-
 ```
 venv\Scripts\activate.bat
 ```
 
 5. Instal paket yang diperlukan (perintah upgrade pip terlebih dahulu):
-
 ```
 python -m pip install --upgrade pip
 python.exe -m pip install -r requirements.txt
@@ -48,7 +45,9 @@ python ""
 ## Alat dan Pustaka (Paket) yang digunakan
 google
 google-generativeai
+pillow
 
 ## Penggunaan
 
-Setelah aplikasi berjalan, Anda dapat mengobrol dengan Google Generative AI di konsol atau CMD Anda
+
+Setelah aplikasi berjalan, Anda dapat mengobrol dan menganalisa gambar dengan Google Generative AI di konsol atau CMD Anda
