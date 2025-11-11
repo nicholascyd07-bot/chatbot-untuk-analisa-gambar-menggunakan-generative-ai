@@ -9,7 +9,7 @@ Untuk menginstal dan menjalankan kode, berikut petunjuknya:
 2. Masuk ke direktori chatbot genai:
 
 ```(CMD)
-cd "chatbot-dengan-gambar-menggunakan-generative-ai"
+cd "chatbot-untuk-analisa-gambar-menggunakan-generative-ai"
 ```
 
 3. Buat lingkungan virtual:
@@ -50,5 +50,6 @@ pillow
 
 
 Setelah aplikasi berjalan, Anda dapat mengobrol dan menganalisa gambar dengan Google Generative AI di konsol atau CMD Anda
+
 
 
