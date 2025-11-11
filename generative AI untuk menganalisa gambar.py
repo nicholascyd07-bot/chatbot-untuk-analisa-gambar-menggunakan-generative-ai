@@ -3,7 +3,7 @@ import PIL.Image # Untuk file gambar
 
 # Use environment variables or direct assignment for API keys
 
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'AIzaSyB7rUAZYwKrN2rYFAJmyhtj0jQra8xoqhM')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', '<your-api-key>')
 # Replace 'YOUR_API_KEY_HERE' with your actual API key if not using environment variables
 
 import google.generativeai as genai
@@ -58,4 +58,5 @@ while True:
         response = chat.send_message(prompt_parts)
         print("AI:  ", response.text)
     except Exception as e:
+
         print(f"Terjadi kesalahan saat mengirim pesan ke model Gemini: {e}")
